@@ -1,6 +1,6 @@
 ## Tela de login feita com HTML e CSS puros.
 
-<img width="100%" src=".github/screens.png">
+<img width="100%" src=".github/screen.png">
 
 # Indice
 
