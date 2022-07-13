@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Como acessar o projeto
 
-[Clique aqui](https://willtechcod.github.io/Tela_login/)
+[Clique aqui](https://willtechcod.github.io/Home-Login/)
 
 ---
 
